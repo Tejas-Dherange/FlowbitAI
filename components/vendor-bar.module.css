@@ -1,0 +1,40 @@
+.vendorBar {
+  height: 2rem;
+  transition: all 0.3s;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 0.75rem;
+}
+
+.vendorBarColor0 {
+  background-color: #6366f1;
+}
+
+.vendorBarColor1 {
+  background-color: #8b5cf6;
+}
+
+.vendorBarColor2 {
+  background-color: #a78bfa;
+}
+
+.vendorBarColor3 {
+  background-color: #c4b5fd;
+}
+
+.vendorBarColor4 {
+  background-color: #1e40af;
+}
+
+.vendorBarColor5 {
+  background-color: #ddd6fe;
+}
+
+.vendorBarColor6 {
+  background-color: #e0e7ff;
+}
+
+.vendorBarColor7 {
+  background-color: #ede9fe;
+}
