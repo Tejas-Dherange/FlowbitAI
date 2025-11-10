@@ -37,9 +37,9 @@ A production-grade full-stack invoice analytics application with an interactive 
 - **API**: Next.js Route Handlers
 - **Validation**: Zod
 
-## Architecture
+##  Project Architecture
 
-\`\`\`
+```plaintext
 invoice-analytics/
 ├── app/
 │   ├── api/                    # API route handlers
@@ -72,8 +72,7 @@ invoice-analytics/
     ├── API.md                  # API documentation
     ├── DATABASE.md             # Database schema
     └── SETUP.md                # Setup guide
-\`\`\`
-
+```
 ## Prerequisites
 
 - Node.js 18.0 or later
@@ -90,8 +89,9 @@ For detailed setup requirements and instructions, see [docs/SETUP.md](docs/SETUP
 
 \`\`\`bash
 # Clone the repository
-git clone <your-repo-url>
-cd invoice-analytics
+git clone https://github.com/Tejas-Dherange/Flowbit.git
+
+cd Flowbit
 
 # Install dependencies
 npm install
