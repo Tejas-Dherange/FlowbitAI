@@ -6,7 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-5.9.3-blue)
 
 A production-grade full-stack invoice analytics application with an interactive dashboard and AI-powered chat interface for natural language data queries.
-
+![alt text](image.png)
 ## Features
 
 - **Analytics Dashboard** - Real-time metrics, trends, and financial insights
